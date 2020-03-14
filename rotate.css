@@ -1,0 +1,23 @@
+.container {
+  display: flex;
+  flex-direction: column;
+}
+
+h1 {
+  display: block;
+  text-align: center;
+}
+
+#rotateURL {
+  margin: auto;
+}
+
+p {
+  margin: 0 auto 30px auto;
+  font-size: 22px;
+  text-decoration: underline;
+}
+
+span {
+  color: red;
+}
